@@ -1,0 +1,33 @@
+
+
+uname=input("enter your namen/email:")
+password=input("enter your password:")
+
+if (uname == "shereen" or uname == "jagiraniaj@gmail.com") and (password == "sheri123"):
+    print("welcome to the instagram")
+    
+elif (uname == "shereen" or uname == "jagiraniaj@gmail.com")  and (password == "sheri1442"):
+    print("welcome to the facebook")
+
+elif (uname == "shereen" or uname == "jagiraniaj@gmail.com") and (password == "sheri123"):
+    print("welcome to the netflix")
+    
+elif (uname == "shereen" or uname == "jagiraniaj@gmail.com")  and (password == "sheri00"):
+    print("welcome to the facebook")
+
+elif (uname == "noor" or uname == "nooraj@gmail.com") and (password == "noor123"):
+    print("welcome to the netflix")
+    
+elif (uname == "shereen" or uname == "nooraj@gmail.com")  and (password == "noor00"):
+    print("welcome to the facebook")
+
+elif (uname == "noor" or uname == "nooraj@gmail.com") and (password == "noor33"):
+    print("welcome to the insta")
+      
+else:
+      print("profile not match")
+      
+
+
+
+ 
